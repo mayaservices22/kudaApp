@@ -1,3 +1,3 @@
-const BASE_URL = "https://paga-server-tan.vercel.app";
+const BASE_URL = "https://paga-server-amber.vercel.app";
 
 export default BASE_URL;
